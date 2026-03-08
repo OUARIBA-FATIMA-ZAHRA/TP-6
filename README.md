@@ -11,3 +11,10 @@ TP 6 : Simuler un conflit de réservation concurrent et démontrer l'optimistic 
 <img width="1079" height="942" alt="Capture d&#39;écran 2026-02-25 195625" src="https://github.com/user-attachments/assets/381a7e6c-9157-4f98-b247-90133cb56929" />
 <img width="1368" height="925" alt="Capture d&#39;écran 2026-02-25 195635" src="https://github.com/user-attachments/assets/8f430fc6-0901-4049-980c-00b981803970" />
 <img width="1874" height="941" alt="Capture d&#39;écran 2026-02-25 195645" src="https://github.com/user-attachments/assets/3c30cb3e-01db-44ab-bbab-fe30da2e9ff8" />
+## Résultat
+
+Le programme démontre :
+
+- la création automatique du schéma avec Hibernate
+- l’insertion des données
+- la gestion de concurrence avec **Optimistic Locking (@Version)**
