@@ -20,3 +20,6 @@ Le programme démontre :
 - l’insertion des données
 - la gestion de concurrence avec **Optimistic Locking (@Version)**
 
+
+
+
