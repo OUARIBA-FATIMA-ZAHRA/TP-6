@@ -19,3 +19,4 @@ Le programme démontre :
 - la création automatique du schéma avec Hibernate
 - l’insertion des données
 - la gestion de concurrence avec **Optimistic Locking (@Version)**
+
